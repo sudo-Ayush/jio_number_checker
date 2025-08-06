@@ -1,20 +1,18 @@
-# 📱 Jio Number Checker - Desktop Application
+# Jio Number Checker - Desktop Application
 
 This is a standalone **Windows desktop application** that checks the status of phone numbers on Jio's servers and exports the results in `.csv` format. Designed for speed, simplicity, and bulk processing.
 
----
 
-## 🚀 Features
+## Features
 
-- 🔍 Bulk check phone numbers against Jio's server
-- 🖥️ Lightweight desktop `.exe` (no installation required)
-- 📤 Outputs clean `.csv` reports
-- 🧾 Useful for customer verification, data validation, etc.
-- 🔒 Runs completely offline except when querying Jio's API
+- Bulk check phone numbers against Jio's server
+- Lightweight desktop `.exe` (no installation required)
+- Outputs clean `.csv` reports
+- Useful for customer verification, data validation, etc.
+- Runs completely offline except when querying Jio's API
 
----
 
-## 🛠️ How to Use
+## How to Use
 
 ### 1. Download & Run
 
